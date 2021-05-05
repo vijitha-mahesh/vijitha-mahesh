@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Your title -->
-## Hi, I'm Vijitha Mahesh, a Software Engineer 🚀 from Sri Lanka.
+## Hi, I'm Vijitha Mahesh, Information Technology Undergraduate 🚀 from Sri Lanka.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/vijitha-mahesh/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
