@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vijithamaheshp@gmail.com**
 
-- ⚡ Fun fact **I love music**
+- ⚡ **I love music and the nature**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vijitha-mahesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="vijitha-mahesh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vijitha-mahesh" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="vijitha-mahesh" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/vijitha mahesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="vijitha mahesh" height="30" width="40" /></a>
 <a href="https://kaggle.com/vijitha mahesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/kaggle.svg" alt="vijitha mahesh" height="30" width="40" /></a>
 <a href="https://medium.com/@mahesh madurasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@mahesh madurasinghe" height="30" width="40" /></a>
