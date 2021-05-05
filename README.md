@@ -1,66 +1,41 @@
-<!--
-### Hi there 👋
-**vijitha-mahesh/vijitha-mahesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Vijitha Mahesh</h1>
+<h3 align="center">A Information Technology Undergraduate from Sri lanka</h3>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vijitha-mahesh&label=Profile%20views&color=0e75b6&style=flat" alt="vijitha-mahesh" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijitha-mahesh" alt="vijitha-mahesh" /></a> </p>
 
-<!-- Your title -->
-## Hi, I'm Vijitha Mahesh, Information Technology Undergraduate 🚀 from Sri Lanka.
+- 🔭 I’m currently working **[PERLASO][CeylonSyntax]**
 
+- 👯 I’m looking to collaborate on **any project as a developer**
+
+- 💬 Ask me about **asp.net core, xamarin forms**
+
+- 📫 How to reach me **vijithamaheshp@gmail.com**
+
+- ⚡ Fun fact **I love music**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vijitha-mahesh/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/vijitha-mahesh"><img src="https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/vijitha_mahesh"><img src="https://img.shields.io/badge/hackerrank-%23d44638.svg?&style=for-the-badge&logoColor=white"/></a>
-<a href="https://mahesh-madurasinghe.medium.com/"><img src="https://img.shields.io/badge/medium-%230A0A0A.svg?&style=for-the-badge&logoColor=white"/></a>
+<a href="https://linkedin.com/in/vijitha-mahesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="vijitha-mahesh" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/vijitha mahesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="vijitha mahesh" height="30" width="40" /></a>
+<a href="https://kaggle.com/vijitha mahesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/kaggle.svg" alt="vijitha mahesh" height="30" width="40" /></a>
+<a href="https://medium.com/@mahesh madurasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@mahesh madurasinghe" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vijitha_mahesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="vijitha_mahesh" height="30" width="40" /></a>
 </p>
 
-### About me
-<p align="left"> <samp>Hi, My name is Vijitha Mahesh. I am a Infromation Technology university student from Sri Lanka focused on Artificial Inteligent,Mobile development and web services. Besides infrastructure and programming building, I enjoy traveling and music.
-From very early on in my life, I started to fall in love with technology. This love has helped me develop a very good technological mindset, and given me the curiosity to learn more.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<p align="left"> <samp>
-- 👨🏽‍💻 I’m currently working on [PERLASO]/[CEYLON SYNTAX](https://www.fandango.lat);<br>
-- 🌱 I’m currently a undergradute at University of Moratuwa Sri lanka;<br>
-- 🔭 I’m looking to collaborate on any project as a developer🤝;<br>
-- 💬 Ask me about anything especially about tech, music I am happy to help;<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijitha-mahesh&show_icons=true&locale=en&layout=compact" alt="vijitha-mahesh" /></p>
 
-### Languages and Tools:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijitha-mahesh&show_icons=true&locale=en" alt="vijitha-mahesh" /></p>
 
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
-<p>
-    <img width="55%" align="right" alt="francotel's github stats" src="https://github-readme-stats.vercel.app/api?username=francotel&show_icons=true&hide_border=true" />
-  </a>
-  
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  <img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg">
-	<img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
-	<img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg">
-	<img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg">
-  <br />
-  <img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-	<img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Xamarin-logo.svg/1280px-Xamarin-logo.svg.png">
-	<img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-	<img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
-  <br />
-    <img width="10%" src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
-  <br />
-  
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijitha-mahesh&" alt="vijitha-mahesh" /></p>
 
 
 ![Made with love in Sri Lanka]
