@@ -52,9 +52,12 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 	<img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg">
   <br />
   <img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-	<img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
+	<img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Xamarin-logo.svg/1280px-Xamarin-logo.svg.png">
 	<img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
 	<img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+  <br />
+    <img width="10%" src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
   <br />
   
 </p>
