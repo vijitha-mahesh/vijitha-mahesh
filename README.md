@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://www.linkedin.com/in/vijitha-mahesh/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/vijitha-mahesh"><img src="https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/vijitha_mahesh"><img src="https://img.shields.io/badge/hackerrank-%23d44638.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://mahesh-madurasinghe.medium.com/"><img src="https://img.shields.io/badge/dev.to-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/vijitha_mahesh"><img src="https://img.shields.io/badge/hackerrank-%23d44638.svg?&style=for-the-badge&logoColor=white"/></a>
+<a href="https://mahesh-madurasinghe.medium.com/"><img src="https://img.shields.io/badge/medium-%230A0A0A.svg?&style=for-the-badge&logoColor=white"/></a>
 </p>
 
 ### About me
