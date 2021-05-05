@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 ## Hi, I'm Vijitha Mahesh, a Software Engineer 🚀 from Sri Lanka.
 
 <p align="left">
-<a href="https://www.linkedin.com/in/franconavarro/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/francotel"><img src="https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:franco.navarrotel@gmail.com"><img src="https://img.shields.io/badge/gmail-%23d44638.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://instagram.com/smrtdvlpr"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://dev.to/francotel"><img src="https://img.shields.io/badge/dev.to-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vijitha-mahesh/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/vijitha-mahesh"><img src="https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/vijitha_mahesh"><img src="https://img.shields.io/badge/gmail-%23d44638.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://mahesh-madurasinghe.medium.com/"><img src="https://img.shields.io/badge/dev.to-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"/></a>
 </p>
 
 ### About me
