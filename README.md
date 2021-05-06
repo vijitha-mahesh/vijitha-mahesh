@@ -30,7 +30,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"></a></p>
   
-<table style="width:100%">
+<table style="width:100%; border: 0px">
   <tr>
     <td>
       <table>
