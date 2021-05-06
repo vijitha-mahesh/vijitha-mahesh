@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vijitha-mahesh" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="vijitha-mahesh" height="60" width="60" /></a>
-<a href="https://stackoverflow.com/users/vijitha-mahesh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="vijitha mahesh" height="60" width="60" /></a>
+<a href="https://stackoverflow.com/users/12093497/vijitha-mahesh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="vijitha mahesh" height="60" width="60" /></a>
 <a href="https://kaggle.com/vijithamahesh" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" alt="vijitha mahesh" height="60" width="60" /></a>
 <a href="https://medium.com/@mahesh-madurasinghe" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/medium-47-433328.png" alt="@mahesh madurasinghe" height="60" width="60" /></a>
 <a href="https://www.hackerrank.com/vijitha_mahesh" target="blank"><img align="center" src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" alt="vijitha_mahesh" height="60" width="60" /></a>
