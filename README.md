@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijitha-mahesh&label=Profile%20views&color=0e75b6&style=flat" alt="vijitha-mahesh" /> </p>
 
 
-<table>
+<table style="width:100%; border:0"
   <tr>
     <td>
       
