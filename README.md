@@ -22,7 +22,7 @@
 
 - 👯 I’m looking to collaborate on **any project as a developer**
 
-- 💬 Ask me about **asp.net core, xamarin forms**
+- 💬 Ask me about **any below technology**
 
 - 📫 How to reach me **vijithamaheshp@gmail.com**
 
