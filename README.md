@@ -82,7 +82,10 @@
       </table>
   </td>
   <td>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijitha-mahesh&show_icons=true&locale=en&layout=compact" alt="vijitha-mahesh" /></p>
+  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijitha-mahesh&show_icons=true&locale=en" alt="vijitha-mahesh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijitha-mahesh&" alt="vijitha-mahesh" /></p>
   </td>
   </tr>
   
@@ -91,9 +94,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijitha-mahesh&show_icons=true&locale=en" alt="vijitha-mahesh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijitha-mahesh&" alt="vijitha-mahesh" /></p>
 
 
 ![Made with love in Sri Lanka]
