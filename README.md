@@ -5,17 +5,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijitha-mahesh&label=Profile%20views&color=0e75b6&style=flat" alt="vijitha-mahesh" /> </p>
 
 
-- 🔭 I’m currently working **[PERLASO][CeylonSyntax]**
-
-- 👯 I’m looking to collaborate on **any project as a developer**
-
-- 💬 Ask me about **asp.net core, xamarin forms**
-
-- 📫 How to reach me **vijithamaheshp@gmail.com**
-
-- ⚡ **I love music and the nature**
-
-
+<table>
+  <tr>
+    <td>
+      
 <h3 align="left">Find me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vijitha-mahesh" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="vijitha-mahesh" height="60" width="60" /></a>
@@ -24,6 +17,24 @@
 <a href="https://medium.com/@mahesh-madurasinghe" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/medium-47-433328.png" alt="@mahesh madurasinghe" height="60" width="60" /></a>
 <a href="https://www.hackerrank.com/vijitha_mahesh" target="blank"><img align="center" src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" alt="vijitha_mahesh" height="60" width="60" /></a>
 </p>
+    </td>
+    
+    <td>
+      - 🔭 I’m currently working **[PERLASO][CeylonSyntax]**
+
+- 👯 I’m looking to collaborate on **any project as a developer**
+
+- 💬 Ask me about **asp.net core, xamarin forms**
+
+- 📫 How to reach me **vijithamaheshp@gmail.com**
+
+- ⚡ **I love music and the nature**
+    </td>
+  </tr>
+</table>
+
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"></a></p>
