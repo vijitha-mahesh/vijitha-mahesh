@@ -18,7 +18,6 @@
 <a href="https://www.hackerrank.com/vijitha_mahesh" target="blank"><img align="center" src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" alt="vijitha_mahesh" height="60" width="60" /></a>
 </p>
     </td>
-    
     <td>
       - 🔭 I’m currently working **[PERLASO][CeylonSyntax]**
 
