@@ -30,7 +30,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank">
-
+  
+<table style="width:100%">
+  <tr>sdfsdf</tr>
+</table>
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50"/> </a> <a href="https://www.blender.org/" target="_blank">
   
 <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="50" height="50"/> </a> <a href="https://getbootstrap.com" target="_blank"> 
