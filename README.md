@@ -1,5 +1,15 @@
-<h1 align="center">Hi 👋, I'm Vijitha Mahesh</h1>
-<h3 align="center">A Information Technology Undergraduate from Sri lanka</h3>
+<table>
+  <tr>
+    <td><h1 align="center">Vijitha Mahesh</h1>
+<h3 align="center">A Information Technology Undergraduate from Sri lanka</h3></td>
+    <td>
+      [![Header](https://github.com/shakilkhan12/shakilkhan12/blob/main/shakil%20khan.gif)](https://www.youtube.com/channel/UC0uT-8UEmS5LtDj4_d51zkQ)
+
+[![webtipstricks.com](https://img.shields.io/badge/-webtipstricks-000000?style=for-the-badge&logo=react&logoColor=white)](http://webtipstricks.com/)
+    </td>
+  </tr>
+</table>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijitha-mahesh&label=Profile%20views&color=0e75b6&style=flat" alt="vijitha-mahesh" /> </p>
 
