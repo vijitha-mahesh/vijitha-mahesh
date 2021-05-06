@@ -29,12 +29,12 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank">
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"></p>
   
 <table style="width:100%">
-  <tr>sdfsdf</tr>
-</table>
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50"/> </a> <a href="https://www.blender.org/" target="_blank">
+  <tr>
+    <td>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50"/> </a> <a href="https://www.blender.org/" target="_blank">
   
 <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="50" height="50"/> </a> <a href="https://getbootstrap.com" target="_blank"> 
   
@@ -81,8 +81,16 @@
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="50" height="50"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank">
   
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="50" height="50"/> </a> </p>
+  </td>
+  <td>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijitha-mahesh&show_icons=true&locale=en&layout=compact" alt="vijitha-mahesh" /></p>
+  </td>
+  </tr>
+  
+</table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijitha-mahesh&show_icons=true&locale=en&layout=compact" alt="vijitha-mahesh" /></p>
+
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijitha-mahesh&show_icons=true&locale=en" alt="vijitha-mahesh" /></p>
 
