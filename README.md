@@ -29,7 +29,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"></p>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"></a></p>
   
 <table style="width:100%">
   <tr>
@@ -69,7 +69,6 @@
         <tr>
            <td>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> <a href="https://reactnative.dev/" target="_blank">
   </td>
-           <td>  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank"></td>
            <td>  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="50" height="50"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"></td>
            <td>  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="50" height="50"/> </a> </p></td>
         </tr>
