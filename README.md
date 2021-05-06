@@ -15,7 +15,7 @@
 - ⚡ **I love music and the nature**
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Find me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vijitha-mahesh" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="vijitha-mahesh" height="60" width="60" /></a>
 <a href="https://stackoverflow.com/users/12093497/vijitha-mahesh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="vijitha mahesh" height="60" width="60" /></a>
