@@ -66,25 +66,14 @@
           <td>  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank"></td>
           <td>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> <a href="https://reactjs.org/" target="_blank"></td>
         </tr>
+        <tr>
+           <td>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> <a href="https://reactnative.dev/" target="_blank">
+  </td>
+           <td>  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank"></td>
+           <td>  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="50" height="50"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"></td>
+           <td>  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="50" height="50"/> </a> </p></td>
+        </tr>
       </table>
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> <a href="https://reactnative.dev/" target="_blank">
-  
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank">
-  
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="50" height="50"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank">
-  
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="50" height="50"/> </a> </p>
   </td>
   <td>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijitha-mahesh&show_icons=true&locale=en&layout=compact" alt="vijitha-mahesh" /></p>
