@@ -19,7 +19,7 @@
 </p>
     </td>
     <td>
-      - 🔭 I’m currently working **[PERLASO][CeylonSyntax]**
+  - 🔭 I’m currently working <a href="https://perlaso.com/"> **[PERLASO]</a>[CeylonSyntax]**
 
 - 👯 I’m looking to collaborate on **any project as a developer**
 
