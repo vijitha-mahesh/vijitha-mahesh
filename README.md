@@ -18,7 +18,7 @@
 </p>
     </td>
     <td>
-  - 🔭 I’m currently working <a href="https://perlaso.com/" target="blank"> **[PERLASO]</a><a href="https://jovial-jackson-14e733.netlify.app/" target="blank">[CeylonSyntax]**</a>
+  - 🔭 I’m currently involving <a href="https://perlaso.com/" target="blank"> **[PERLASO]</a><a href="https://jovial-jackson-14e733.netlify.app/" target="blank">[CeylonSyntax]**</a>
 
 - 👯 I’m looking to collaborate on **any project as a developer**
 
